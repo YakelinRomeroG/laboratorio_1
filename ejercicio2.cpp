@@ -7,7 +7,7 @@ monedas: $500; $200; $100; $50.*/
 
 using namespace std;
 
-int main_2() {
+int main() {
     //solicitamos la cantidad deseada al usuario.
     int cantidad;
     cout << "Ingrese la cantidad deseada: ";
